@@ -1,0 +1,1 @@
+ потрібно скопіювати .env.example у .env перед запуском: cp .env.example .env
